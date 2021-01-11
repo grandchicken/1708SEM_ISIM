@@ -56,9 +56,9 @@ https://bhpan.buaa.edu.cn:443/link/A26C04F82CFEF99EF88FA2660D80C9FB
 * 本资料仅供学习使用，不得进行商业有关活动
 * 若相关课程资源制作/提供方有异议或拒绝继续分享，以及考虑课件版权的老师请及时联系我们。
 ### GitHub的raw.githubusercontent.com无法链接问题
-* 通过http://IPAddress.com首页,输入http://raw.githubusercontent.com查询到真实IP地址为199.232.28.133
+* 通过 http://IPAddress.com 首页,输入`http://raw.githubusercontent.com`查询到真实IP地址为199.232.28.133
 * C:\Windows\System32\drivers\etc\hosts文件
-添加以下内容并保存即可恢复199.232.28.133 http://raw.githubusercontent.com
+添加以下内容并保存即可恢复199.232.28.133 `http://raw.githubusercontent.com`
 ### 附：1708信管专业培养方案（专业课部分）
 待补充
 ### 附：贡献者名单
