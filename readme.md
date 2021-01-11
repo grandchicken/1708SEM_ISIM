@@ -62,4 +62,4 @@ https://bhpan.buaa.edu.cn:443/link/A26C04F82CFEF99EF88FA2660D80C9FB
 ### 附：1708信管专业培养方案（专业课部分）
 待补充
 ### 附：贡献者名单
-[@grandchicken](https://github.com/grandchicken),[@Lbuluu](https://github.com/LBluu)
+[@grandchicken](https://github.com/grandchicken),[@LBluu](https://github.com/LBluu)
