@@ -1,0 +1,662 @@
+User_ID,Gender,Age,Marital_Status,Website_Activity,Browsed_Electronics_12Mo,Bought_Electronics_12Mo,Bought_Digital_Media_18Mo,Bought_Digital_Books,Payment_Method,eReader_Adoption
+9552,M,61,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+6757,M,27,M,Regular,Yes,No,Yes,No,Bank Transfer,Innovator
+3599,F,29,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+6811,M,49,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+4104,M,29,S,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+7226,M,60,S,Seldom,No,Yes,Yes,Yes,Credit Card,Early Majority
+7814,F,53,S,Regular,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+4693,F,63,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+7266,M,46,M,Regular,Yes,Yes,Yes,Yes,Monthly Billing,Innovator
+5259,F,25,S,Seldom,Yes,Yes,Yes,No,Website Account,Early Majority
+7417,F,40,M,Regular,Yes,Yes,No,Yes,Website Account,Innovator
+6795,M,29,S,Seldom,Yes,Yes,Yes,Yes,Credit Card,Early Adopter
+8669,F,49,S,Seldom,Yes,Yes,Yes,No,Monthly Billing,Late Majority
+9888,M,41,M,Regular,Yes,Yes,Yes,Yes,Credit Card,Innovator
+9181,F,47,S,Regular,Yes,No,No,Yes,Bank Transfer,Innovator
+2792,F,43,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+5174,M,63,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+8702,F,37,M,Regular,No,Yes,Yes,Yes,Monthly Billing,Early Adopter
+4318,M,32,S,Seldom,Yes,Yes,Yes,No,Credit Card,Early Majority
+6091,M,48,M,Seldom,No,No,No,No,Credit Card,Late Majority
+8380,F,57,M,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Adopter
+6892,M,36,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+7976,F,55,S,Seldom,Yes,No,No,No,Bank Transfer,Late Majority
+7214,F,50,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+3369,F,48,S,Seldom,Yes,Yes,No,No,Website Account,Late Majority
+1645,F,33,S,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Innovator
+2866,F,22,S,Seldom,Yes,No,No,Yes,Bank Transfer,Early Adopter
+7014,F,21,M,Seldom,Yes,Yes,No,Yes,Bank Transfer,Early Adopter
+6177,M,49,M,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+6199,M,47,M,Seldom,Yes,Yes,Yes,Yes,Monthly Billing,Early Adopter
+4787,M,21,M,Seldom,No,Yes,Yes,Yes,Bank Transfer,Early Adopter
+1720,F,48,M,Seldom,Yes,No,Yes,Yes,Credit Card,Early Majority
+7763,F,55,S,Regular,Yes,Yes,Yes,No,Credit Card,Early Majority
+7356,M,37,S,Seldom,Yes,No,Yes,No,Credit Card,Early Majority
+6916,M,36,M,Seldom,Yes,No,No,No,Website Account,Late Majority
+2979,F,19,M,Seldom,No,No,Yes,Yes,Bank Transfer,Innovator
+1328,M,22,S,Seldom,Yes,No,No,No,Website Account,Early Majority
+7817,M,45,S,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+4937,F,46,M,Regular,Yes,No,Yes,Yes,Bank Transfer,Innovator
+3879,F,44,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+1757,F,55,M,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Adopter
+9651,M,31,M,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+8096,F,18,S,Seldom,Yes,No,Yes,No,Website Account,Early Majority
+5575,F,45,S,Seldom,No,Yes,Yes,No,Bank Transfer,Late Majority
+7793,F,23,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Innovator
+4423,F,62,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+7117,F,46,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+6974,M,62,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+5928,M,65,M,Seldom,Yes,Yes,No,No,Bank Transfer,Late Majority
+6415,F,25,M,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Adopter
+3505,M,48,S,Seldom,Yes,Yes,No,No,Monthly Billing,Late Majority
+5108,F,60,M,Frequent,Yes,Yes,Yes,Yes,Monthly Billing,Early Adopter
+9895,F,58,M,Frequent,Yes,No,Yes,No,Bank Transfer,Early Adopter
+2670,F,59,M,Regular,Yes,Yes,Yes,Yes,Monthly Billing,Early Adopter
+8231,M,56,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+5429,M,36,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+8951,F,48,S,Seldom,No,No,Yes,Yes,Bank Transfer,Early Majority
+7488,F,22,S,Seldom,Yes,No,Yes,No,Bank Transfer,Early Majority
+3514,M,55,S,Regular,Yes,No,Yes,No,Bank Transfer,Early Majority
+4303,F,18,S,Seldom,Yes,Yes,Yes,Yes,Website Account,Innovator
+9547,F,63,M,Frequent,Yes,Yes,Yes,No,Bank Transfer,Early Adopter
+5666,F,22,M,Regular,Yes,Yes,Yes,No,Website Account,Early Adopter
+3960,F,37,M,Regular,Yes,No,Yes,No,Bank Transfer,Early Adopter
+4177,M,19,S,Regular,Yes,No,Yes,No,Website Account,Early Adopter
+4838,F,53,S,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+9939,M,37,M,Regular,Yes,No,No,No,Website Account,Early Adopter
+2586,M,24,S,Seldom,Yes,No,Yes,No,Bank Transfer,Early Majority
+7688,M,66,S,Regular,Yes,Yes,No,No,Bank Transfer,Early Majority
+3243,M,45,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+1153,M,17,S,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+1596,F,50,M,Frequent,Yes,No,Yes,No,Website Account,Early Adopter
+6775,F,50,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+5524,M,23,M,Seldom,Yes,No,Yes,No,Website Account,Early Majority
+9092,F,49,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+4850,M,63,M,Regular,Yes,Yes,No,No,Bank Transfer,Early Majority
+9058,F,17,M,Seldom,Yes,No,Yes,No,Website Account,Early Majority
+4766,F,27,S,Seldom,Yes,Yes,Yes,No,Credit Card,Early Majority
+3170,M,62,M,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+1858,F,56,M,Regular,Yes,Yes,Yes,No,Credit Card,Early Majority
+9327,M,27,S,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Adopter
+9252,M,48,M,Seldom,Yes,Yes,Yes,No,Credit Card,Late Majority
+5071,M,36,S,Seldom,No,No,Yes,Yes,Bank Transfer,Early Majority
+7333,F,41,M,Regular,Yes,Yes,No,Yes,Website Account,Innovator
+8184,M,37,M,Regular,Yes,Yes,No,No,Bank Transfer,Early Adopter
+4148,M,27,M,Seldom,No,Yes,Yes,No,Website Account,Late Majority
+8747,F,26,M,Regular,Yes,No,Yes,No,Website Account,Early Adopter
+9201,F,41,M,Seldom,Yes,No,Yes,No,Bank Transfer,Early Majority
+7500,F,44,M,Regular,No,No,Yes,Yes,Website Account,Early Adopter
+8666,M,35,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+6498,F,61,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+6014,F,17,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+3377,F,19,S,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+7464,F,59,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+8105,F,24,M,Regular,Yes,No,Yes,No,Credit Card,Innovator
+8524,M,31,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Innovator
+8653,F,43,S,Seldom,Yes,Yes,No,Yes,Credit Card,Early Adopter
+2428,M,38,M,Seldom,Yes,No,Yes,No,Credit Card,Early Majority
+4150,M,59,M,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+1798,M,36,S,Regular,Yes,No,Yes,Yes,Bank Transfer,Innovator
+6210,M,39,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+5223,M,41,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+4592,F,62,M,Regular,Yes,Yes,Yes,Yes,Credit Card,Early Adopter
+2453,F,41,S,Seldom,No,No,Yes,No,Bank Transfer,Early Majority
+2688,F,54,S,Regular,Yes,No,Yes,No,Website Account,Early Majority
+1415,F,23,M,Seldom,Yes,Yes,Yes,No,Monthly Billing,Early Majority
+3171,M,49,S,Regular,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+2296,F,59,M,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Innovator
+6745,F,39,M,Regular,Yes,No,No,Yes,Website Account,Innovator
+8701,F,60,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+6413,F,48,M,Regular,Yes,Yes,Yes,No,Website Account,Early Majority
+2045,M,29,M,Seldom,No,No,Yes,No,Bank Transfer,Early Majority
+8749,M,22,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+6097,F,44,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+6058,M,36,M,Seldom,No,No,Yes,No,Bank Transfer,Early Majority
+4491,F,43,M,Frequent,Yes,No,Yes,No,Bank Transfer,Innovator
+3056,M,38,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+4006,F,56,M,Seldom,Yes,Yes,No,Yes,Bank Transfer,Early Majority
+9726,F,41,M,Seldom,Yes,Yes,No,No,Bank Transfer,Early Majority
+6439,F,28,S,Seldom,No,Yes,Yes,No,Monthly Billing,Late Majority
+5860,M,37,M,Regular,Yes,Yes,Yes,No,Bank Transfer,Early Adopter
+1601,F,38,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Majority
+4684,F,52,M,Seldom,Yes,Yes,No,Yes,Credit Card,Early Adopter
+9643,F,41,S,Seldom,Yes,No,Yes,No,Bank Transfer,Early Majority
+9974,M,38,M,Regular,Yes,Yes,Yes,Yes,Website Account,Innovator
+2408,M,41,M,Seldom,Yes,Yes,Yes,No,Credit Card,Early Majority
+7309,F,20,M,Seldom,Yes,No,Yes,Yes,Credit Card,Early Adopter
+2528,M,46,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+2097,F,50,M,Regular,Yes,No,Yes,Yes,Credit Card,Innovator
+4747,F,27,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+9845,M,62,S,Regular,Yes,No,Yes,Yes,Credit Card,Innovator
+4995,M,54,M,Regular,Yes,No,No,Yes,Bank Transfer,Innovator
+4166,F,32,M,Seldom,No,Yes,Yes,Yes,Monthly Billing,Early Adopter
+1110,M,45,M,Seldom,Yes,No,No,Yes,Website Account,Early Adopter
+2963,F,61,S,Seldom,No,No,Yes,Yes,Credit Card,Early Majority
+2908,F,45,M,Frequent,Yes,No,No,No,Bank Transfer,Innovator
+6587,F,31,M,Seldom,Yes,Yes,No,No,Credit Card,Early Majority
+2392,M,38,S,Regular,Yes,Yes,No,No,Credit Card,Early Adopter
+4277,F,16,M,Regular,Yes,Yes,Yes,No,Website Account,Early Adopter
+1438,F,50,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+8813,M,43,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+9461,F,50,S,Seldom,Yes,No,No,No,Credit Card,Late Majority
+6695,M,58,S,Regular,Yes,No,Yes,No,Credit Card,Early Majority
+9716,M,25,S,Regular,Yes,Yes,Yes,No,Website Account,Early Adopter
+3873,M,54,S,Frequent,Yes,Yes,Yes,Yes,Monthly Billing,Innovator
+3027,M,19,M,Regular,Yes,Yes,Yes,No,Website Account,Early Adopter
+1588,F,65,M,Seldom,Yes,No,No,Yes,Website Account,Early Majority
+9793,F,55,M,Regular,Yes,Yes,No,Yes,Website Account,Early Adopter
+7481,M,18,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+8002,F,55,S,Regular,Yes,No,Yes,Yes,Website Account,Early Majority
+7615,M,56,S,Seldom,Yes,No,Yes,No,Bank Transfer,Late Majority
+3715,M,26,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Innovator
+3518,F,22,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+1388,F,59,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Majority
+4833,F,40,S,Seldom,Yes,Yes,No,No,Website Account,Late Majority
+7365,M,24,M,Regular,Yes,No,Yes,No,Credit Card,Innovator
+8431,F,59,M,Seldom,Yes,No,No,No,Website Account,Late Majority
+8722,M,33,M,Seldom,Yes,Yes,No,No,Credit Card,Early Majority
+3712,M,56,M,Frequent,Yes,No,Yes,Yes,Website Account,Innovator
+1530,M,66,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+9492,M,60,M,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+3432,M,37,S,Seldom,No,Yes,Yes,Yes,Website Account,Early Adopter
+3793,M,55,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+3235,M,45,S,Regular,No,No,No,No,Website Account,Early Majority
+1654,M,35,S,Seldom,Yes,No,Yes,No,Bank Transfer,Early Majority
+6147,F,32,M,Frequent,Yes,Yes,No,No,Monthly Billing,Innovator
+6266,M,53,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+9303,F,34,S,Seldom,Yes,No,Yes,No,Bank Transfer,Early Majority
+3777,F,48,S,Seldom,Yes,Yes,No,Yes,Monthly Billing,Early Adopter
+5379,M,65,S,Regular,Yes,No,No,Yes,Credit Card,Innovator
+2181,F,53,S,Regular,Yes,Yes,No,No,Bank Transfer,Early Adopter
+9114,M,64,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+2983,F,50,M,Regular,Yes,Yes,No,No,Bank Transfer,Early Adopter
+4228,M,43,S,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+6633,M,33,M,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+1181,F,53,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+2636,M,35,M,Regular,Yes,Yes,Yes,No,Bank Transfer,Early Adopter
+7666,M,50,M,Seldom,Yes,No,No,Yes,Credit Card,Early Adopter
+4393,F,29,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+4897,M,34,S,Regular,Yes,No,Yes,Yes,Website Account,Innovator
+1042,M,63,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+2525,F,40,M,Seldom,Yes,No,Yes,No,Bank Transfer,Early Majority
+9829,F,26,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+8960,M,28,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+9310,M,54,S,Regular,Yes,Yes,Yes,No,Credit Card,Early Majority
+6118,F,61,M,Regular,Yes,Yes,Yes,No,Monthly Billing,Early Majority
+9396,M,29,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+6813,F,63,M,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+4673,F,51,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+6696,F,64,M,Regular,Yes,No,No,No,Website Account,Late Majority
+2289,F,49,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+2785,M,34,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+9067,M,34,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+4420,F,28,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+9389,M,45,S,Regular,Yes,Yes,Yes,No,Website Account,Early Majority
+4662,M,57,S,Seldom,Yes,No,Yes,No,Bank Transfer,Late Majority
+3489,F,61,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+6071,M,64,M,Seldom,Yes,No,No,No,Bank Transfer,Late Majority
+5758,M,66,M,Regular,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+3126,M,23,M,Regular,Yes,No,Yes,No,Website Account,Early Adopter
+5976,M,43,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+4554,M,29,M,Regular,Yes,No,Yes,No,Bank Transfer,Early Adopter
+9769,F,46,S,Regular,Yes,Yes,Yes,No,Bank Transfer,Early Adopter
+3953,M,46,S,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+1886,M,46,S,Frequent,Yes,No,No,No,Website Account,Early Adopter
+9770,M,57,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+8160,M,43,S,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+5811,F,46,S,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Majority
+8807,M,30,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+3500,M,58,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+1774,M,64,M,Seldom,Yes,No,Yes,No,Credit Card,Late Majority
+9284,M,22,S,Seldom,Yes,No,Yes,No,Bank Transfer,Early Majority
+4298,F,36,S,Frequent,Yes,No,Yes,No,Website Account,Innovator
+9317,F,61,M,Frequent,Yes,No,No,No,Monthly Billing,Early Majority
+9415,F,21,S,Seldom,Yes,No,No,No,Credit Card,Early Majority
+5955,M,40,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+4671,M,51,S,Regular,Yes,No,Yes,Yes,Website Account,Early Adopter
+6214,F,64,S,Seldom,Yes,No,Yes,Yes,Website Account,Late Majority
+4168,F,44,S,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+2791,F,64,M,Frequent,No,Yes,No,Yes,Website Account,Innovator
+1303,M,41,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+3245,F,50,S,Seldom,Yes,No,No,No,Website Account,Late Majority
+1555,F,52,S,Seldom,Yes,Yes,Yes,No,Credit Card,Late Majority
+2498,M,62,M,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+2197,F,60,M,Seldom,Yes,Yes,Yes,Yes,Monthly Billing,Late Majority
+2132,M,46,M,Regular,Yes,No,Yes,No,Credit Card,Early Adopter
+7407,M,46,M,Seldom,Yes,Yes,Yes,Yes,Monthly Billing,Early Majority
+5902,M,17,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+8029,F,28,M,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+6765,M,41,S,Seldom,Yes,No,No,Yes,Bank Transfer,Early Adopter
+4448,M,43,M,Frequent,Yes,Yes,No,Yes,Website Account,Innovator
+3981,F,33,S,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+7796,M,44,M,Regular,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+1670,M,48,M,Frequent,Yes,Yes,Yes,No,Bank Transfer,Innovator
+5464,F,38,S,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Innovator
+2186,M,57,M,Frequent,Yes,No,Yes,No,Website Account,Early Adopter
+4217,M,45,S,Seldom,Yes,No,Yes,No,Credit Card,Late Majority
+7734,M,32,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+6589,M,51,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+1367,F,40,M,Regular,Yes,Yes,Yes,Yes,Website Account,Innovator
+6276,F,63,M,Frequent,No,Yes,No,Yes,Website Account,Innovator
+1807,F,50,S,Seldom,Yes,Yes,No,Yes,Bank Transfer,Early Adopter
+6206,M,16,M,Seldom,Yes,No,Yes,No,Credit Card,Early Majority
+2848,F,49,M,Seldom,Yes,No,Yes,No,Bank Transfer,Late Majority
+3477,F,45,M,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Innovator
+1337,F,62,M,Regular,No,Yes,Yes,No,Bank Transfer,Early Majority
+1732,M,61,M,Seldom,Yes,Yes,Yes,No,Monthly Billing,Late Majority
+6141,M,47,S,Regular,Yes,No,No,Yes,Credit Card,Innovator
+5800,M,44,M,Regular,Yes,No,No,No,Credit Card,Early Adopter
+8820,F,46,S,Seldom,Yes,Yes,No,No,Bank Transfer,Late Majority
+3647,M,26,M,Regular,Yes,Yes,Yes,No,Website Account,Early Adopter
+8662,F,35,S,Regular,Yes,Yes,No,No,Website Account,Early Adopter
+8623,F,29,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+2791,F,49,M,Regular,No,Yes,Yes,No,Credit Card,Early Adopter
+8249,F,56,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+4302,F,22,M,Regular,Yes,Yes,Yes,No,Credit Card,Innovator
+3209,F,48,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+8345,M,44,S,Regular,Yes,No,Yes,No,Website Account,Early Majority
+8014,F,47,S,Seldom,Yes,Yes,No,Yes,Credit Card,Early Adopter
+4169,F,53,S,Seldom,Yes,No,Yes,Yes,Credit Card,Early Majority
+6180,F,53,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+2619,M,22,M,Seldom,Yes,No,No,No,Monthly Billing,Early Majority
+9767,F,34,S,Regular,Yes,Yes,Yes,No,Website Account,Early Adopter
+2765,M,19,M,Regular,Yes,Yes,Yes,Yes,Website Account,Innovator
+9202,M,24,M,Regular,Yes,No,Yes,No,Bank Transfer,Innovator
+9899,M,54,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+1645,M,41,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+7708,M,65,S,Regular,Yes,Yes,Yes,Yes,Credit Card,Innovator
+9232,M,56,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+7751,F,56,S,Regular,Yes,No,No,Yes,Website Account,Early Adopter
+9885,M,21,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+9553,M,57,S,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+2556,F,17,S,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+6815,F,36,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+7062,M,18,M,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Adopter
+3032,M,40,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Majority
+4254,F,27,M,Regular,Yes,Yes,Yes,Yes,Monthly Billing,Innovator
+1587,M,27,M,Regular,No,No,Yes,No,Monthly Billing,Early Adopter
+7606,F,58,S,Regular,Yes,Yes,Yes,No,Website Account,Early Majority
+1773,F,26,S,Regular,Yes,No,Yes,Yes,Bank Transfer,Innovator
+3727,F,45,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+9726,F,43,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+6560,M,48,S,Frequent,Yes,Yes,Yes,Yes,Website Account,Innovator
+9024,F,32,M,Regular,Yes,No,Yes,No,Website Account,Early Adopter
+9646,F,26,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+6810,F,55,S,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+8649,M,57,S,Regular,No,Yes,Yes,Yes,Bank Transfer,Early Adopter
+9825,F,42,M,Regular,Yes,Yes,Yes,Yes,Credit Card,Innovator
+6327,M,42,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Majority
+1550,M,34,M,Regular,Yes,Yes,Yes,Yes,Monthly Billing,Innovator
+2314,M,52,M,Regular,Yes,Yes,Yes,Yes,Credit Card,Innovator
+7612,F,41,M,Regular,Yes,Yes,Yes,No,Website Account,Early Majority
+1164,M,53,S,Regular,Yes,No,Yes,Yes,Monthly Billing,Early Adopter
+7595,M,54,S,Seldom,Yes,Yes,Yes,Yes,Credit Card,Early Adopter
+5671,F,25,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+8332,F,61,S,Frequent,Yes,No,Yes,No,Bank Transfer,Early Adopter
+5953,F,26,M,Regular,Yes,Yes,Yes,No,Bank Transfer,Innovator
+4443,M,55,M,Frequent,Yes,No,Yes,No,Bank Transfer,Innovator
+3732,M,52,M,Regular,Yes,Yes,No,No,Bank Transfer,Early Adopter
+6715,M,48,S,Regular,Yes,Yes,No,Yes,Website Account,Early Adopter
+2490,F,44,M,Regular,Yes,Yes,Yes,Yes,Monthly Billing,Early Adopter
+2955,F,65,M,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Innovator
+6040,F,59,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+2884,F,39,M,Seldom,Yes,No,No,No,Monthly Billing,Late Majority
+1763,F,35,M,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Majority
+6669,F,46,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+3325,M,50,S,Regular,Yes,No,Yes,No,Website Account,Early Majority
+8964,M,51,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+9434,F,51,S,Regular,Yes,Yes,No,No,Bank Transfer,Early Adopter
+5301,M,47,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+7310,F,57,M,Seldom,Yes,No,Yes,Yes,Credit Card,Early Majority
+3387,M,44,M,Seldom,No,Yes,Yes,Yes,Website Account,Early Adopter
+7036,M,53,S,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+6338,M,42,M,Seldom,No,No,Yes,No,Monthly Billing,Late Majority
+1410,M,55,M,Regular,Yes,Yes,Yes,Yes,Website Account,Early Majority
+4301,M,59,M,Seldom,Yes,Yes,Yes,No,Credit Card,Late Majority
+2956,F,54,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+7673,F,51,M,Regular,Yes,No,No,Yes,Credit Card,Innovator
+5243,F,48,S,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+6877,F,29,S,Seldom,Yes,Yes,Yes,Yes,Monthly Billing,Early Adopter
+6871,F,55,M,Regular,Yes,Yes,No,Yes,Bank Transfer,Innovator
+8343,F,37,M,Seldom,Yes,No,No,Yes,Credit Card,Innovator
+2661,F,51,S,Seldom,Yes,No,Yes,No,Bank Transfer,Late Majority
+1314,M,65,S,Regular,Yes,Yes,Yes,No,Website Account,Late Majority
+2848,F,32,S,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+1129,M,59,S,Seldom,Yes,No,No,No,Monthly Billing,Late Majority
+3211,M,54,S,Seldom,Yes,No,Yes,No,Bank Transfer,Late Majority
+1681,M,18,S,Seldom,No,Yes,No,Yes,Website Account,Early Adopter
+5368,F,57,S,Seldom,Yes,Yes,No,Yes,Bank Transfer,Early Adopter
+7323,M,22,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+7039,M,30,M,Seldom,Yes,Yes,Yes,Yes,Credit Card,Early Adopter
+4715,M,61,S,Seldom,Yes,Yes,Yes,No,Credit Card,Late Majority
+7730,M,41,S,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+8559,M,58,M,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+3532,M,56,S,Regular,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+8475,M,24,M,Regular,Yes,Yes,Yes,No,Website Account,Early Adopter
+9204,M,61,S,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+1737,M,43,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+5435,M,49,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Majority
+2255,F,34,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+8159,M,23,M,Seldom,Yes,No,No,Yes,Bank Transfer,Early Adopter
+7507,F,37,M,Regular,Yes,No,Yes,No,Monthly Billing,Early Adopter
+4634,M,41,S,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+8140,M,34,S,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+4854,M,61,M,Seldom,Yes,Yes,Yes,Yes,Credit Card,Early Majority
+9726,F,63,S,Regular,Yes,No,No,No,Bank Transfer,Early Majority
+3834,F,20,S,Regular,No,No,Yes,No,Website Account,Early Adopter
+8860,M,21,S,Seldom,Yes,No,No,Yes,Website Account,Early Adopter
+5568,F,38,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+2966,M,57,M,Seldom,Yes,Yes,No,Yes,Monthly Billing,Early Majority
+4629,M,49,M,Regular,Yes,No,Yes,Yes,Website Account,Innovator
+9220,F,30,M,Regular,Yes,No,Yes,No,Bank Transfer,Early Adopter
+6525,F,34,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+4145,M,39,M,Regular,Yes,No,Yes,No,Website Account,Early Majority
+4614,M,58,M,Seldom,No,Yes,No,No,Credit Card,Late Majority
+3581,M,27,M,Regular,Yes,No,No,No,Bank Transfer,Innovator
+8010,F,23,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Innovator
+4639,M,60,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+8324,M,63,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+4616,F,44,M,Seldom,Yes,No,Yes,No,Bank Transfer,Late Majority
+7273,F,53,S,Seldom,Yes,Yes,Yes,No,Monthly Billing,Late Majority
+7573,M,59,S,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+8991,M,22,S,Regular,Yes,Yes,No,No,Credit Card,Innovator
+5205,M,31,S,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Adopter
+3814,F,23,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+8232,M,51,S,Frequent,Yes,Yes,No,No,Credit Card,Innovator
+2987,F,32,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+9288,F,47,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+3022,M,60,M,Frequent,No,Yes,Yes,No,Website Account,Early Majority
+3733,F,54,S,Seldom,Yes,Yes,Yes,No,Monthly Billing,Late Majority
+9981,M,63,S,Seldom,Yes,No,No,No,Bank Transfer,Late Majority
+1709,M,41,S,Seldom,No,No,No,No,Monthly Billing,Late Majority
+5938,M,61,M,Seldom,Yes,No,Yes,No,Credit Card,Late Majority
+8331,M,61,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+7631,F,35,S,Frequent,Yes,No,No,No,Bank Transfer,Innovator
+1159,F,56,M,Frequent,Yes,Yes,Yes,No,Website Account,Early Adopter
+7918,F,57,M,Frequent,Yes,Yes,Yes,No,Monthly Billing,Early Adopter
+8437,M,31,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+8180,M,56,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+4148,M,20,M,Seldom,Yes,No,No,No,Website Account,Early Majority
+4438,F,63,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+7065,M,34,M,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Majority
+9723,M,19,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+9939,M,60,S,Seldom,Yes,Yes,No,No,Bank Transfer,Late Majority
+1210,F,50,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+8591,M,48,S,Regular,Yes,No,No,No,Monthly Billing,Early Majority
+3384,F,21,S,Regular,Yes,No,No,No,Website Account,Early Adopter
+6117,M,20,M,Seldom,Yes,No,Yes,No,Monthly Billing,Early Majority
+7683,F,42,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+5759,M,57,M,Seldom,Yes,No,Yes,Yes,Credit Card,Early Majority
+6260,F,43,S,Frequent,Yes,Yes,Yes,No,Monthly Billing,Early Adopter
+4921,M,37,M,Seldom,Yes,Yes,No,No,Bank Transfer,Late Majority
+3736,M,26,S,Seldom,Yes,No,No,No,Credit Card,Late Majority
+9458,F,26,S,Seldom,No,No,No,Yes,Website Account,Early Adopter
+1779,M,46,S,Seldom,No,Yes,Yes,No,Bank Transfer,Late Majority
+4633,F,62,S,Frequent,Yes,No,No,No,Website Account,Early Majority
+8916,M,54,S,Regular,No,Yes,Yes,Yes,Monthly Billing,Early Adopter
+2542,F,19,M,Seldom,Yes,Yes,Yes,No,Credit Card,Early Majority
+3530,M,51,M,Seldom,Yes,Yes,No,Yes,Monthly Billing,Early Adopter
+5465,F,33,M,Regular,Yes,No,Yes,No,Website Account,Early Adopter
+7465,M,55,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+7371,M,25,M,Regular,Yes,Yes,Yes,Yes,Website Account,Innovator
+6377,M,19,S,Regular,Yes,No,Yes,No,Bank Transfer,Early Adopter
+7915,F,25,M,Seldom,Yes,No,Yes,Yes,Credit Card,Early Majority
+8580,F,29,M,Seldom,Yes,No,No,No,Bank Transfer,Late Majority
+2769,F,52,S,Seldom,Yes,No,No,No,Website Account,Late Majority
+8545,M,24,M,Seldom,No,Yes,Yes,Yes,Bank Transfer,Early Majority
+9598,M,66,M,Regular,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+9096,M,17,M,Seldom,Yes,Yes,Yes,No,Website Account,Early Majority
+7264,M,51,M,Frequent,Yes,Yes,Yes,No,Website Account,Early Adopter
+4824,M,30,S,Seldom,Yes,Yes,No,No,Bank Transfer,Late Majority
+1743,M,60,M,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+6546,M,45,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+6865,F,65,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+2308,M,17,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+1302,M,17,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Innovator
+8989,F,38,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+6016,M,49,S,Seldom,No,Yes,Yes,Yes,Website Account,Early Adopter
+3616,M,30,S,Seldom,Yes,Yes,Yes,Yes,Credit Card,Early Majority
+9673,M,27,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+2488,F,36,S,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Adopter
+1890,F,57,S,Regular,Yes,No,Yes,Yes,Bank Transfer,Innovator
+2968,M,38,S,Frequent,Yes,No,Yes,No,Credit Card,Innovator
+2840,F,37,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+5882,F,22,M,Regular,Yes,Yes,No,Yes,Credit Card,Innovator
+7123,F,53,M,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+4981,M,62,M,Regular,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+2525,M,52,S,Frequent,Yes,Yes,Yes,No,Credit Card,Early Adopter
+6530,F,45,M,Regular,Yes,Yes,No,Yes,Bank Transfer,Early Adopter
+5711,M,59,M,Regular,Yes,Yes,Yes,No,Credit Card,Early Majority
+2966,F,35,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+1070,M,33,M,Seldom,No,No,Yes,No,Monthly Billing,Late Majority
+4148,M,62,M,Seldom,Yes,Yes,No,No,Credit Card,Late Majority
+8123,F,31,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+9559,M,52,S,Seldom,Yes,Yes,Yes,Yes,Monthly Billing,Early Majority
+5880,F,27,M,Seldom,Yes,Yes,Yes,Yes,Monthly Billing,Early Majority
+6637,M,60,M,Frequent,Yes,No,Yes,No,Website Account,Early Majority
+4382,M,42,S,Seldom,Yes,No,Yes,No,Bank Transfer,Late Majority
+8250,F,36,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+5898,F,26,M,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+5857,M,34,M,Regular,Yes,No,No,No,Website Account,Early Adopter
+9764,F,44,M,Seldom,Yes,Yes,Yes,No,Monthly Billing,Late Majority
+8493,M,66,M,Seldom,Yes,Yes,Yes,Yes,Monthly Billing,Early Majority
+9781,M,37,S,Seldom,Yes,Yes,Yes,Yes,Monthly Billing,Early Adopter
+4943,F,64,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+4526,F,64,S,Frequent,Yes,No,Yes,Yes,Monthly Billing,Innovator
+8062,M,20,M,Regular,No,Yes,Yes,No,Website Account,Early Adopter
+6775,M,61,S,Regular,Yes,No,Yes,No,Website Account,Early Majority
+7324,M,20,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+6049,F,57,M,Frequent,Yes,No,Yes,Yes,Monthly Billing,Innovator
+8283,M,41,S,Seldom,Yes,Yes,Yes,No,Credit Card,Late Majority
+3565,M,23,S,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+2270,F,54,M,Frequent,Yes,Yes,Yes,No,Bank Transfer,Early Adopter
+4896,F,45,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+4620,F,32,S,Regular,Yes,Yes,No,Yes,Credit Card,Innovator
+1845,M,51,S,Frequent,Yes,No,Yes,Yes,Website Account,Innovator
+5999,M,41,M,Regular,Yes,Yes,Yes,No,Credit Card,Early Majority
+9287,M,35,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+7571,F,28,M,Frequent,Yes,Yes,Yes,No,Website Account,Innovator
+3586,M,36,S,Seldom,Yes,No,No,No,Website Account,Late Majority
+5938,M,20,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+1690,M,21,S,Regular,Yes,Yes,Yes,No,Bank Transfer,Early Adopter
+5446,F,29,M,Seldom,No,No,Yes,Yes,Bank Transfer,Early Adopter
+4532,F,47,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+7674,F,46,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+4866,F,37,M,Regular,Yes,No,No,Yes,Monthly Billing,Innovator
+1367,F,41,M,Seldom,Yes,Yes,Yes,Yes,Credit Card,Early Majority
+1881,F,46,S,Frequent,Yes,No,No,No,Website Account,Early Adopter
+9440,F,47,S,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+1045,F,37,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+6033,M,33,S,Regular,Yes,Yes,Yes,Yes,Credit Card,Innovator
+1297,F,23,S,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+6536,M,35,M,Frequent,Yes,No,Yes,No,Bank Transfer,Innovator
+9051,M,19,M,Regular,Yes,Yes,Yes,No,Bank Transfer,Early Adopter
+6581,F,39,M,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+6452,F,44,M,Seldom,Yes,Yes,No,No,Website Account,Late Majority
+9397,M,55,M,Seldom,Yes,Yes,No,No,Credit Card,Late Majority
+4635,F,26,M,Regular,Yes,Yes,Yes,No,Website Account,Early Adopter
+1689,M,64,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+2421,F,21,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Innovator
+1906,F,23,M,Seldom,Yes,No,Yes,Yes,Credit Card,Early Adopter
+5177,M,54,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+3479,M,16,S,Seldom,Yes,No,Yes,No,Bank Transfer,Early Majority
+4304,M,40,S,Regular,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+5997,F,64,M,Seldom,Yes,Yes,Yes,Yes,Credit Card,Late Majority
+3280,M,44,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Majority
+1341,F,22,M,Seldom,Yes,No,Yes,No,Website Account,Early Majority
+1850,M,59,M,Seldom,Yes,No,Yes,No,Credit Card,Late Majority
+6053,F,51,M,Frequent,Yes,No,No,Yes,Website Account,Innovator
+3309,M,62,M,Seldom,Yes,No,No,Yes,Bank Transfer,Early Adopter
+9745,M,41,M,Regular,No,No,Yes,Yes,Monthly Billing,Early Adopter
+1620,F,64,M,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+5408,M,61,M,Frequent,Yes,No,No,No,Credit Card,Early Majority
+2569,F,40,S,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+3982,M,19,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+5599,F,57,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+8336,M,47,M,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Adopter
+5219,F,33,S,Regular,Yes,No,No,Yes,Monthly Billing,Innovator
+8476,M,20,M,Seldom,Yes,No,No,No,Monthly Billing,Early Majority
+3965,M,42,M,Seldom,Yes,No,No,Yes,Website Account,Early Majority
+5970,M,56,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+5744,M,23,M,Seldom,Yes,Yes,No,Yes,Credit Card,Early Adopter
+9764,F,39,M,Regular,No,No,Yes,No,Website Account,Early Majority
+3347,F,40,M,Seldom,Yes,No,Yes,No,Credit Card,Late Majority
+8755,M,57,M,Frequent,Yes,Yes,Yes,Yes,Website Account,Innovator
+3863,F,36,S,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+8360,F,34,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+7230,F,38,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+4063,F,21,M,Seldom,Yes,Yes,Yes,No,Website Account,Early Majority
+5802,M,29,S,Regular,Yes,Yes,Yes,Yes,Website Account,Innovator
+6223,M,52,M,Seldom,Yes,No,No,Yes,Bank Transfer,Early Majority
+4505,F,17,M,Regular,Yes,No,Yes,No,Credit Card,Early Adopter
+4490,M,58,M,Frequent,Yes,Yes,No,No,Website Account,Early Adopter
+1036,F,44,S,Seldom,Yes,No,Yes,No,Credit Card,Late Majority
+8834,M,53,M,Seldom,Yes,No,Yes,No,Credit Card,Late Majority
+7052,M,43,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Majority
+7870,F,59,M,Seldom,Yes,No,Yes,No,Bank Transfer,Late Majority
+2876,M,41,M,Seldom,Yes,Yes,Yes,Yes,Credit Card,Early Majority
+4972,M,26,S,Seldom,No,No,Yes,Yes,Website Account,Early Majority
+2080,F,34,S,Regular,Yes,Yes,Yes,Yes,Monthly Billing,Innovator
+9516,M,55,S,Seldom,Yes,Yes,Yes,Yes,Website Account,Late Majority
+4625,F,55,M,Seldom,Yes,Yes,Yes,Yes,Credit Card,Early Adopter
+2167,M,23,M,Seldom,Yes,Yes,Yes,No,Credit Card,Early Majority
+5078,F,36,M,Seldom,Yes,Yes,No,No,Website Account,Late Majority
+7871,M,52,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+6931,M,58,M,Seldom,Yes,No,Yes,No,Credit Card,Late Majority
+9820,M,57,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+1815,F,62,M,Frequent,Yes,No,No,No,Website Account,Early Majority
+5259,M,64,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Late Majority
+8693,F,47,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+4847,M,57,S,Regular,Yes,No,Yes,Yes,Website Account,Innovator
+1701,M,32,M,Regular,Yes,Yes,Yes,Yes,Monthly Billing,Innovator
+3453,M,43,M,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+5167,M,21,M,Seldom,Yes,Yes,Yes,No,Website Account,Early Majority
+9332,F,42,S,Frequent,Yes,Yes,Yes,No,Credit Card,Early Adopter
+8322,F,28,M,Seldom,Yes,No,Yes,No,Credit Card,Late Majority
+8830,F,31,S,Regular,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+8092,F,30,M,Seldom,Yes,Yes,Yes,No,Website Account,Late Majority
+3081,F,20,S,Seldom,Yes,Yes,No,No,Website Account,Early Majority
+8451,M,35,S,Seldom,Yes,No,Yes,No,Bank Transfer,Late Majority
+3255,F,32,M,Frequent,Yes,Yes,No,No,Monthly Billing,Innovator
+9478,M,53,S,Seldom,Yes,No,Yes,No,Website Account,Early Adopter
+9111,F,34,S,Seldom,Yes,No,Yes,No,Bank Transfer,Early Adopter
+3807,F,48,S,Seldom,Yes,Yes,No,Yes,Monthly Billing,Late Majority
+5550,M,65,S,Regular,Yes,No,No,Yes,Credit Card,Early Majority
+7905,F,53,S,Regular,Yes,Yes,No,No,Bank Transfer,Early Adopter
+8395,M,64,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Late Majority
+2609,F,50,M,Regular,Yes,Yes,No,No,Bank Transfer,Innovator
+8760,M,43,S,Seldom,Yes,Yes,Yes,No,Website Account,Early Majority
+7101,M,33,M,Seldom,Yes,No,Yes,No,Monthly Billing,Innovator
+2301,F,53,S,Seldom,Yes,No,Yes,No,Website Account,Early Adopter
+7526,M,35,M,Regular,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+7695,M,50,M,Seldom,Yes,No,No,Yes,Credit Card,Innovator
+7258,F,29,S,Seldom,Yes,No,Yes,No,Website Account,Innovator
+3454,M,34,S,Regular,Yes,No,Yes,Yes,Website Account,Late Majority
+7352,M,63,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+5397,F,40,M,Seldom,Yes,No,Yes,No,Bank Transfer,Early Adopter
+2556,F,26,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+3741,M,28,M,Seldom,Yes,No,Yes,Yes,Website Account,Late Majority
+8884,M,54,S,Regular,Yes,Yes,Yes,No,Credit Card,Early Adopter
+9870,F,61,M,Regular,Yes,Yes,Yes,No,Monthly Billing,Early Majority
+3429,M,29,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+9130,F,63,M,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+8860,F,51,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+5016,F,64,M,Regular,Yes,No,No,No,Website Account,Innovator
+6950,F,49,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+7565,M,34,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+4686,M,34,M,Seldom,Yes,No,Yes,Yes,Website Account,Late Majority
+8122,F,28,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Adopter
+9455,M,45,S,Regular,Yes,Yes,Yes,No,Website Account,Early Adopter
+4625,M,57,S,Seldom,Yes,No,Yes,No,Bank Transfer,Early Majority
+2524,F,61,M,Seldom,Yes,Yes,Yes,No,Website Account,Early Majority
+8508,M,64,M,Seldom,Yes,No,No,No,Bank Transfer,Early Majority
+8191,M,66,M,Regular,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+7415,M,23,M,Regular,Yes,No,Yes,No,Website Account,Innovator
+3721,M,43,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Majority
+8486,M,29,M,Regular,Yes,No,Yes,No,Bank Transfer,Late Majority
+4314,F,46,S,Regular,Yes,Yes,Yes,No,Bank Transfer,Innovator
+4388,M,46,S,Seldom,Yes,No,Yes,Yes,Website Account,Late Majority
+1167,M,46,S,Frequent,Yes,No,No,No,Website Account,Early Adopter
+2887,M,57,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Late Majority
+9926,M,43,S,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+1225,F,46,S,Seldom,Yes,No,Yes,Yes,Monthly Billing,Late Majority
+8372,M,30,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Innovator
+8009,M,58,S,Seldom,Yes,No,Yes,No,Website Account,Late Majority
+9321,M,64,M,Seldom,Yes,No,Yes,No,Credit Card,Early Adopter
+7041,M,22,S,Seldom,Yes,No,Yes,No,Bank Transfer,Late Majority
+1595,F,36,S,Frequent,Yes,No,Yes,No,Website Account,Late Majority
+9768,F,61,M,Frequent,Yes,No,No,No,Monthly Billing,Early Adopter
+4299,F,21,S,Seldom,Yes,No,No,No,Credit Card,Late Majority
+4757,M,40,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+1643,M,51,S,Regular,Yes,No,Yes,Yes,Website Account,Early Adopter
+6625,F,64,S,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+6711,F,44,S,Seldom,Yes,No,Yes,No,Monthly Billing,Early Adopter
+2310,F,64,M,Frequent,No,Yes,No,Yes,Website Account,Late Majority
+7793,M,41,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Early Majority
+1003,F,50,S,Seldom,Yes,No,No,No,Website Account,Early Majority
+3736,F,52,S,Seldom,Yes,Yes,Yes,No,Credit Card,Early Majority
+8773,M,62,M,Seldom,Yes,No,Yes,No,Website Account,Innovator
+9515,F,60,M,Seldom,Yes,Yes,Yes,Yes,Monthly Billing,Early Adopter
+9024,M,46,M,Regular,Yes,No,Yes,No,Credit Card,Early Adopter
+8245,M,46,M,Seldom,Yes,Yes,Yes,Yes,Monthly Billing,Early Adopter
+7054,M,17,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+7790,F,28,M,Seldom,Yes,No,Yes,No,Monthly Billing,Late Majority
+8466,M,41,S,Seldom,Yes,No,No,Yes,Bank Transfer,Early Adopter
+1202,M,43,M,Frequent,Yes,Yes,No,Yes,Website Account,Early Majority
+9076,F,33,S,Seldom,Yes,Yes,Yes,No,Website Account,Early Majority
+2273,M,44,M,Regular,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+2749,M,48,M,Frequent,Yes,Yes,Yes,No,Bank Transfer,Early Adopter
+9262,F,38,S,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Early Adopter
+3381,M,57,M,Frequent,Yes,No,Yes,No,Website Account,Late Majority
+9777,M,45,S,Seldom,Yes,No,Yes,No,Credit Card,Early Majority
+1883,M,32,S,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Late Majority
+2918,M,51,M,Seldom,Yes,Yes,Yes,No,Website Account,Early Majority
+4454,F,40,M,Regular,Yes,Yes,Yes,Yes,Website Account,Early Majority
+4211,F,63,M,Frequent,No,Yes,No,Yes,Website Account,Early Majority
+3109,F,50,S,Seldom,Yes,Yes,No,Yes,Bank Transfer,Late Majority
+3672,M,16,M,Seldom,Yes,No,Yes,No,Credit Card,Early Majority
+6156,F,49,M,Seldom,Yes,No,Yes,No,Bank Transfer,Early Adopter
+7674,F,45,M,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Late Majority
+9416,F,62,M,Regular,No,Yes,Yes,No,Bank Transfer,Early Majority
+1985,M,61,M,Seldom,Yes,Yes,Yes,No,Monthly Billing,Innovator
+9509,M,47,S,Regular,Yes,No,No,Yes,Credit Card,Early Adopter
+3818,M,44,M,Regular,Yes,No,No,No,Credit Card,Late Majority
+2544,F,46,S,Seldom,Yes,Yes,No,No,Bank Transfer,Early Adopter
+7823,M,26,M,Regular,Yes,Yes,Yes,No,Website Account,Early Majority
+3342,F,35,S,Regular,Yes,Yes,No,No,Website Account,Early Adopter
+4653,F,29,S,Seldom,Yes,No,Yes,No,Website Account,Early Adopter
+8587,F,49,M,Regular,No,Yes,Yes,No,Credit Card,Late Majority
+6016,F,56,S,Seldom,Yes,No,Yes,No,Website Account,Early Majority
+8470,F,22,M,Regular,Yes,Yes,Yes,No,Credit Card,Early Adopter
+7522,F,48,M,Seldom,Yes,Yes,Yes,No,Bank Transfer,Late Majority
+3757,M,44,S,Regular,Yes,No,Yes,No,Website Account,Innovator
+6838,F,47,S,Seldom,Yes,Yes,No,Yes,Credit Card,Innovator
+4771,F,53,S,Seldom,Yes,No,Yes,Yes,Credit Card,Early Adopter
+3316,F,53,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+6172,M,22,M,Seldom,Yes,No,No,No,Monthly Billing,Late Majority
+3529,F,34,S,Regular,Yes,Yes,Yes,No,Website Account,Innovator
+1828,M,19,M,Regular,Yes,Yes,Yes,Yes,Website Account,Early Adopter
+6554,M,24,M,Regular,Yes,No,Yes,No,Bank Transfer,Early Majority
+1298,M,54,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+9049,M,41,M,Seldom,Yes,Yes,Yes,No,Website Account,Early Majority
+1756,M,65,S,Regular,Yes,Yes,Yes,Yes,Credit Card,Early Majority
+5309,M,56,S,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+5592,F,56,S,Regular,Yes,No,No,Yes,Website Account,Early Adopter
+8530,M,21,S,Seldom,Yes,Yes,Yes,No,Bank Transfer,Innovator
+9547,M,57,S,Regular,Yes,Yes,Yes,Yes,Bank Transfer,Innovator
+5064,F,17,S,Seldom,Yes,No,Yes,Yes,Website Account,Early Adopter
+2669,F,36,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+4304,M,18,M,Seldom,Yes,No,Yes,Yes,Monthly Billing,Early Majority
+5965,M,40,M,Seldom,Yes,Yes,Yes,Yes,Bank Transfer,Early Majority
+3204,F,27,M,Regular,Yes,Yes,Yes,Yes,Monthly Billing,Early Majority
+7229,M,27,M,Regular,No,No,Yes,No,Monthly Billing,Early Majority
+9711,F,58,S,Regular,Yes,Yes,Yes,No,Website Account,Innovator
+3291,F,26,S,Regular,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+2088,F,45,M,Seldom,Yes,No,Yes,Yes,Bank Transfer,Early Majority
+4632,F,43,M,Seldom,Yes,Yes,Yes,Yes,Website Account,Early Majority
+8450,M,48,S,Frequent,Yes,Yes,Yes,Yes,Website Account,Late Majority
+2048,F,32,M,Regular,Yes,No,Yes,No,Website Account,Early Adopter
+9630,F,26,M,Seldom,Yes,No,Yes,Yes,Website Account,Early Majority
+9982,F,55,S,Seldom,Yes,No,Yes,No,Monthly Billing,Early Adopter
+2542,M,57,S,Regular,No,Yes,Yes,Yes,Bank Transfer,Early Majority
