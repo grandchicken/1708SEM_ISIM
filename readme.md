@@ -60,6 +60,15 @@ https://bhpan.buaa.edu.cn:443/link/A26C04F82CFEF99EF88FA2660D80C9FB
 * C:\Windows\System32\drivers\etc\hosts文件
 添加以下内容并保存即可恢复199.232.28.133 `http://raw.githubusercontent.com`
 ### 附：1708信管专业培养方案（专业课部分）
-待补充
+https://bhpan.buaa.edu.cn:443/link/EADBF3D3755002E1FD401EADBE14C3B6
+有效期限：2021-03-21 23:59
+如已过期或访问密码不正确，请联系 lzqpublic@163.com 获取最新访问方式
+### 附：[1808信管专业资料](https://github.com/HoBeedzc/1708SEM_ISIM/blob/master/1808%20version.md)
+https://bhpan.buaa.edu.cn:443/link/D83E5029B00CB794304D0465BDC67878
+有效期限：2021-03-21 23:59 访问密码：yrBV
+**注：**
+- **如已过期或访问密码不正确，请联系 lzqpublic@163.com 获取最新访问方式**
+- **资料包括部分课程视频，总大小超 50G ，请按需下载**
+- **资料仅供内部学习交流使用，切勿用于任何商业用途**
 ### 附：贡献者名单
-[@grandchicken](https://github.com/grandchicken),[@LBluu](https://github.com/LBluu),[@Vision0220](https://github.com/Vision0220)
+[@grandchicken](https://github.com/grandchicken),[@LBluu](https://github.com/LBluu),[@Vision0220](https://github.com/Vision0220),[@HoBee](https://github.com/HoBeedzc)
