@@ -60,9 +60,9 @@ https://bhpan.buaa.edu.cn:443/link/A26C04F82CFEF99EF88FA2660D80C9FB
 * C:\Windows\System32\drivers\etc\hosts文件
 添加以下内容并保存即可恢复199.232.28.133 `http://raw.githubusercontent.com`
 ### 附：1708信管专业培养方案（专业课部分）
-https://bhpan.buaa.edu.cn:443/link/EADBF3D3755002E1FD401EADBE14C3B6
-
-有效期限：2021-03-21 23:59
+https://bhpan.buaa.edu.cn:443/link/A847352CC605EBA44D1B697AA7FF48ED
+有效期限：2021-05-04 23:59
+访问密码：TWni
 
 如已过期或访问密码不正确，请联系 lzqpublic@163.com 获取最新访问方式
 
