@@ -28,8 +28,15 @@
 * 相关代码
 * 课程简要的介绍
 #### 部分课本及参考教材网盘链接
-https://bhpan.buaa.edu.cn:443/link/A26C04F82CFEF99EF88FA2660D80C9FB
-有效期限：2021-07-01 23:59
+主要参考教材：
+
+https://bhpan.buaa.edu.cn:443/link/C59D2B99846D2E942775BD3DC1AD5471
+有效期限：2023-10-30 23:59
+
+其他参考教材：
+
+https://bhpan.buaa.edu.cn:443/link/F6FD16D5A9D82B9FFCC9AD8D96068448
+有效期限：2023-08-31 23:59
 
 ### 更多想法
 大学四年走来，其实学到的究竟有多少倒是其次，最重要的是一个学习思路的转变，大一时候，我还停留在学院设置什么课我就上什么，跟着老师的脚步慢慢走的，作业、上课、考试三点一线的状态之中，当然按部就班，脚踏实地地走肯定不会有差结果，但这种被动式的学习其实并不明智，特别依赖于老师的状态讲课质量以及周遭的学习氛围，也特别应试，可能到头来，真正掌握的东西很少。
@@ -60,9 +67,9 @@ https://bhpan.buaa.edu.cn:443/link/A26C04F82CFEF99EF88FA2660D80C9FB
 * C:\Windows\System32\drivers\etc\hosts文件
 添加以下内容并保存即可恢复199.232.28.133 `http://raw.githubusercontent.com`
 ### 附：1708信管专业培养方案（专业课部分）
-https://bhpan.buaa.edu.cn:443/link/EADBF3D3755002E1FD401EADBE14C3B6
+https://bhpan.buaa.edu.cn:443/link/1DCCBBE047A2A4C6D5D2E7CE43A8C1F6
 
-有效期限：2021-03-21 23:59
+有效期限：2023-08-31 23:59
 
 如已过期或访问密码不正确，请联系 lzqpublic@163.com 获取最新访问方式
 
