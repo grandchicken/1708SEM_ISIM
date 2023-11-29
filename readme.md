@@ -83,7 +83,7 @@ https://bhpan.buaa.edu.cn:443/link/D83E5029B00CB794304D0465BDC67878
 - **资料包括部分课程视频，总大小超 50G ，请按需下载**
 - **资料仅供内部学习交流使用，切勿用于任何商业用途**
 
-### 附：1908信管专业资料
+### 附：[1908信管专业资料](https://github.com/desline4709/1708SEM_ISIM/blob/master/1908%20version.md)
 
 https://bhpan.buaa.edu.cn/link/AABA72033946804839AFDC7133ABB25FEB
 有效期限：永久有效  提取码：Tqzr
