@@ -82,5 +82,17 @@ https://bhpan.buaa.edu.cn:443/link/D83E5029B00CB794304D0465BDC67878
 - **如已过期或访问密码不正确，请联系 lzqpublic@163.com 获取最新访问方式**
 - **资料包括部分课程视频，总大小超 50G ，请按需下载**
 - **资料仅供内部学习交流使用，切勿用于任何商业用途**
+
+### 附：[1908信管专业资料](https://github.com/desline4709/1708SEM_ISIM/blob/master/1908%20version.md)
+
+https://bhpan.buaa.edu.cn/link/AABA72033946804839AFDC7133ABB25FEB
+有效期限：永久有效  提取码：Tqzr
+
+**注：**
+
+- **如无法访问，请联系 19377407@buaa.edu.cn 获取资料**
+- **资料为github部分的2019级资料增补包，如直接git clone或下载源码，则只需下载云盘里github中未上传的部分课程教材即可 ，请按需下载**
+- **资料仅供内部学习交流使用，切勿用于任何商业用途**
+
 ### 附：贡献者名单
-[@grandchicken](https://github.com/grandchicken),[@LBluu](https://github.com/LBluu),[@Vision0220](https://github.com/Vision0220),[@HoBee](https://github.com/HoBeedzc)
+[@grandchicken](https://github.com/grandchicken),[@LBluu](https://github.com/LBluu),[@Vision0220](https://github.com/Vision0220),[@HoBee](https://github.com/HoBeedzc), [@desline](https://github.com/desline4709)
