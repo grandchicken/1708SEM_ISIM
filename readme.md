@@ -16,7 +16,7 @@
 * 大二上：概率论、微观经济学、运筹学、航空航天概论
 * 大二下：C语言、电子商务基础、公司财务、管理信息系统、宏观经济学、计算机原理与应用、商法、数据结构、应用统计学、运筹学
 * 大三上：计量经济学、离散数学、生产与运作管理、数据库、数据通讯与网络应用、现代程序设计技术、人工智能与深度学习
-* 大三下：大型数据库应用实验、决策与商务智能系统、系统仿真及其应用、信息系统分析与设计
+* 大三下：大型数据库应用实验、决策与商务智能系统、企业资源计划、人力资源管理、系统仿真及其应用、现代管理科学方法、信息系统分析与设计、资本运营
 * 大四上：信息经济学、大数据分析方法与技术
 
 ### 内容
@@ -95,4 +95,4 @@ https://bhpan.buaa.edu.cn/link/AABA72033946804839AFDC7133ABB25FEB
 - **资料仅供内部学习交流使用，切勿用于任何商业用途**
 
 ### 附：贡献者名单
-[@grandchicken](https://github.com/grandchicken),[@LBluu](https://github.com/LBluu),[@Vision0220](https://github.com/Vision0220),[@HoBee](https://github.com/HoBeedzc), [@desline](https://github.com/desline4709)
+[@grandchicken](https://github.com/grandchicken),[@LBluu](https://github.com/LBluu),[@Vision0220](https://github.com/Vision0220),[@HoBee](https://github.com/HoBeedzc), [@desline](https://github.com/desline4709), [@Captain-Paul](https://github.com/Captain-Paul)
